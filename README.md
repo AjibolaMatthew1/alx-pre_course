@@ -1,2 +1,2 @@
-#This is the first repository for the ALX software engineering course! 
+**First repository for the ALX Software engineering program! Excited about what lies ahead.**
 
